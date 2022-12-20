@@ -4,14 +4,14 @@ pippidebree@gmail.com
 
 # Natural Language Processings of Bookings.com Hotel Reviews
 
-
-Libraries Used:
+This project considers the use of NLP when predicting a guest's rating of a Hotel, based on 
+the language used in their written reviews. 
 
 Documents in this project folder include:
 
 Notebooks For Process
 - `1_EDA.ipynb`
-- `2_PreprocessingAndVectorization.ipynb`
+- `2_FeatureEngineering.ipynb`
 - `3_Modeling.ipynb`
 
 Python Files Containing Project Code
