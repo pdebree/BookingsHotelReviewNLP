@@ -23,3 +23,6 @@ Additional Files
 
 Data Sources:
 - [Bookings.com - 515K Hotel Reviews Data in Europe](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe)
+
+Note: The data is too large to be uploaded to GitHub, but downloading the csv file from the 
+above link will provide the exact data used throughout this project.
