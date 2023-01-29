@@ -4,7 +4,7 @@ pippidebree@gmail.com
 
 # Natural Language Processings of Bookings.com Hotel Reviews
 
-This project considers the use of NLP when predicting a guest's rating of a Hotel, based on 
+This project uses Sentiment Analysis to predict a guest's rating of a Hotel, based on 
 the language used in their written reviews. 
 
 Documents in this project folder include:
